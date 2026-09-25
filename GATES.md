@@ -24,6 +24,8 @@
 - Avaliação médica/odontológica, apresentação do plano de tratamento e formas de pagamento.
 ## 5. Pós-Venda / Fidelização
 - Lembretes de retorno, acompanhamento pós-procedimento, tratamentos recorrentes e avaliações no Google.
+- [ ] **Gargalo Principal:** No-shows (faltas às consultas) e demora no atendimento via WhatsApp no horário comercial.
+- [ ] **Solução com IA:** Atendimento 24/7 com envio automático de localização, preparos pré-consulta, lembretes interativos com confirmação ativa e fluxos de reengajamento para pacientes antigos.
 
 
 # Receber Dinheiro
