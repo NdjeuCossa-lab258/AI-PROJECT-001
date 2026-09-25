@@ -1,5 +1,6 @@
 # Jornada do lead
 # Mercado Imobiliário
+A decisão de compra de um imóvel leva semanas ou meses. O papel da automação com IA é manter o lead aquecido sem perder o toque humano.
 ## 1. Atração & Descoberta
 - Anúncios de imóveis, portais (ZAP, VivaReal), redes sociais e busca por localização.
 ## 2. Atendimento Inicial
@@ -13,7 +14,9 @@
 - [ ] **Gargalo Principal:** Leads desqualificados tomam o tempo dos corretores com imóveis fora do orçamento.
 - [ ] **Solução com IA:** Chatbots integrados ao WhatsApp/CRM realizam perguntas-chave de qualificação (renda aproximada, uso de FGTS, prazo de mudança) em menos de 10 segundos e agendam a visita diretamente na agenda do corretor responsável.
 
+
 # Clínicas & Saúde (Necessidade / Confiança Improrrogável)
+A jornada da clínica exige resposta imediata. Quem responde primeiro pelo WhatsApp geralmente fecha o agendamento.
 ## 1. Atração & Descoberta
 - Busca por sintomas, procedimentos específicos, indicações, Google Maps e Instagram.
 ## 2. Atendimento Inicial
