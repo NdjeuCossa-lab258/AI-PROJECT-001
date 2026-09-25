@@ -10,6 +10,8 @@
 - Visitas repetidas, proposta financeira, análise de crédito e documentação jurídica.
 ## 5. Pós-Venda / Fidelização
 - Entrega de chaves, indicação de novos compradores e venda cruzada (investimentos).
+- [ ] **Gargalo Principal:** Leads desqualificados tomam o tempo dos corretores com imóveis fora do orçamento.
+- [ ] **Solução com IA:** Chatbots integrados ao WhatsApp/CRM realizam perguntas-chave de qualificação (renda aproximada, uso de FGTS, prazo de mudança) em menos de 10 segundos e agendam a visita diretamente na agenda do corretor responsável.
 
 # Clínicas & Saúde (Necessidade / Confiança Improrrogável)
 ## 1. Atração & Descoberta
